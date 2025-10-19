@@ -22,3 +22,13 @@ source venv/bin/activate
 # install deps
 pip install -r requirements.txt
 
+
+---
+
+## Completion Screenshot
+
+Congratulations! 🎉 Pyrat has been successfully run.
+
+![Pyrat Complete](../IMAGES/pyrat_complete.png)
+*Figure — Confirmation screenshot showing "You did it — Pyrat complete".*
+
